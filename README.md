@@ -1,1 +1,1 @@
-https://dartans.github.io/GregMueller/
+http://resume.gregm.ca/
